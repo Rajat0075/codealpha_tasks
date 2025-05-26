@@ -42,7 +42,11 @@ store unemployment coloums on y variable
 # Data Visualisation
 Using library Plotly to use graph
 
-<h2>Unemployment rate with Region Wise</h2>
+<p>Unemployment rate with Region Wise</p>
+Bar Graph
 <img src='img1.png'/>
+Pie Graph
 <img src='img2.png'/>
+<p>Unemployment rate with Area Wise</p>
+Bar Graph
 <img src='img3.png'/>
