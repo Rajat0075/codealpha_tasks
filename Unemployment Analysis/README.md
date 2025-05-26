@@ -1,5 +1,5 @@
 # Unemployment Analysis
-<img src='img1.png'/>
+
 To analysis dataset we use some librarie
 
 # Libraries
@@ -41,3 +41,7 @@ store unemployment coloums on y variable
 
 # Data Visualisation
 Using library Plotly to use graph
+
+<img src='img1.png'/>
+<img src='img2.png'/>
+<img src='img3.png'/>
