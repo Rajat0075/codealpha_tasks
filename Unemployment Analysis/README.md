@@ -20,11 +20,24 @@ We taking steps to analysis
 
 # Access/Load Dataset
 To access the dataset we use pandas with read_csv() function
+<ul>
+  <li>head()</li>
+  <li>tail()</li>
+  <li>info(): </li>
+  <li>describe(): </li>
+</ul>
 
 # Data Preprocessing
 <ul>
+  <li>Check Number of Coloums:Rows</li>
   <li>Check Null Values</li>
   <li>Remove Null Values</li>
   <li>Check Duplicate Rows</li>
   <li>Remove Duplicate Rows</li>
 </ul>
+
+# Data Analysis
+store unemployment coloums on y variable
+
+# Data Visualisation
+Using library Plotly to use graph
