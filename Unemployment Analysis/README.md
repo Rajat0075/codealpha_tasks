@@ -44,9 +44,9 @@ Using library Plotly to use graph
 
 <p>Unemployment rate with Region Wise</p>
 Bar Graph
-<img src='img1.png'/>
+<img src='images/img1.png'/>
 Pie Graph
-<img src='img2.png'/>
+<img src='images/img2.png'/>
 <p>Unemployment rate with Area Wise</p>
 Bar Graph
-<img src='img3.png'/>
+<img src='images/img3.png'/>
