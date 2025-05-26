@@ -16,4 +16,4 @@ Data Represent on graphical form
 <img src="images/newspaper.png" />
 
 # Data Prediction
-<img src="prediction.png" />
+<img src="images/prediction.png" />
