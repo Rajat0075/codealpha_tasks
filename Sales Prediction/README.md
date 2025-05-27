@@ -1,7 +1,7 @@
-# Sales Predoction
-
+# Sales Prediction
+Sales prediction
 # Access/Load Data 
-
+Access Dataset 
 # Data Preprocessing
 To Data cleaning process which need to remove unwanted data on dataset
 
